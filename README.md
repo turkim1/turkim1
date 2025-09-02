@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 I work with geospatial data to analyze, visualize, and extract insights from satellite imagery. My background in geoinformatics and data science helps me build practical solutions for mapping, monitoring, and decision-making. 
 
 🚀 What I Do:
