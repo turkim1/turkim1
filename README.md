@@ -2,15 +2,23 @@
 
 I work with geospatial data to analyze, visualize, and extract insights from satellite imagery. My background in geoinformatics and data science helps me build practical solutions for mapping, monitoring, and decision-making. 
 
-🚀 What I Do:
+What I Do:
+
 🛰 Remote Sensing – Extracting insights from optical & radar imagery
+
 📍 GIS & Spatial Analysis – Mapping, processing, and visualizing geospatial data
+
 🤖 Machine Learning – Detecting patterns & automating feature extraction
+
 🗺 Web Mapping – Creating interactive maps with Leaflet & OpenLayers
+
 🗄 Geospatial Databases – Managing spatial data with PostgreSQL/PostGIS
+
 📊 Network & Spatial Optimization – Solving routing and location-based challenges
 
-I’m especially interested in projects related to energy, climate, and disaster response. Always curious, always learning! 🚀
+I’m especially interested in projects related to energy, climate, and disaster response. 
+
+Always curious, always learning! 🚀
 
 
 # 💻 Tech Stack:
