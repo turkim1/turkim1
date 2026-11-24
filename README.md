@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a Geospatial Engineer working at the intersection of geospatial data, software development, and machine learning.
+I'm a **Geospatial Engineer** working at the intersection of **geospatial data, software development, and machine learning**.
 
-I enjoy building solutions that make working with geospatial data more efficient and accessible. This includes developing automated processing workflows, working with satellite imagery, building data pipelines, and integrating machine learning into geospatial applications.
+I enjoy building solutions that make working with geospatial data more efficient and accessible. This includes developing **automated processing workflows**, working with **satellite imagery**, building data pipelines, and integrating machine learning into geospatial applications.
 
-Most of my work is Python-based, using the geospatial ecosystem alongside tools such as Google Earth Engine, Scikit-learn, PyTorch, MLflow, and Optuna. I'm particularly interested in developing end-to-end solutions, from acquiring and processing spatial data to building applications that make it useful.
+Most of my work is Python-based, using the geospatial ecosystem alongside tools such as Google Earth Engine, Scikit-learn, PyTorch, MLflow, and Optuna. I'm particularly interested in developing **end-to-end solutions**, from acquiring and processing spatial data to building applications that make it useful.
 
-I'm especially interested in applying these technologies to challenges in agriculture, energy, and environmental monitoring.
+I'm especially interested in applying these technologies to challenges in **agriculture, energy, and environmental monitoring**.
 
 
 # 💻 Tech Stack:
