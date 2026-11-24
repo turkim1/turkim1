@@ -1,24 +1,47 @@
+
 ## Hi there 👋
 
 I'm a **Geospatial Engineer** working at the intersection of **geospatial data, software development, and machine learning**.
 
-I enjoy building solutions that make working with geospatial data more efficient and accessible. This includes developing **automated processing workflows**, working with **satellite imagery**, building data pipelines, and integrating machine learning into geospatial applications.
+I work on building automated workflows, processing satellite imagery, engineering geospatial data pipelines, and integrating machine learning into practical applications. I particularly enjoy taking complex geospatial tasks and turning them into efficient, reusable solutions.
 
-Most of my work is Python-based, using the geospatial ecosystem alongside tools such as Google Earth Engine, Scikit-learn, PyTorch, MLflow, and Optuna. I'm particularly interested in developing **end-to-end solutions**, from acquiring and processing spatial data to building applications that make it useful.
+Most of my work is Python-based, drawing on the geospatial ecosystem alongside tools such as Google Earth Engine, Scikit-learn, PyTorch, MLflow, and Optuna. My approach covers the entire workflow, from data acquisition and processing to analysis and application development.
 
-I'm especially interested in applying these technologies to challenges in **agriculture, energy, and environmental monitoring**.
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=turkim1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=turkim1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm particularly interested in applying geospatial technologies to challenges in **agriculture, energy, and environmental monitoring**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=turkim1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+**Programming & Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square) ![Rasterio](https://img.shields.io/badge/Rasterio-4B8B3B?style=flat-square) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square)
+
+**Remote Sensing & GIS**
+
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![GeoServer](https://img.shields.io/badge/GeoServer-3C6B8E?style=flat-square) ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square)
+
+**Machine Learning & Experiment Tracking**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-3D6BCE?style=flat-square)
+
+**Development & Visualization**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+---
+
+
+## 🌍 Areas of Interest
+
+- Geospatial software engineering and application development
+- Geospatial data engineering and automated processing workflows
+- Remote sensing and Earth observation
+- Machine learning and deep learning for geospatial applications
+- Spatial data analysis and decision support systems
+- Applications in agriculture, energy, environmental monitoring, and other sectors
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-turki)
