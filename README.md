@@ -1,24 +1,12 @@
 ## Hi there 👋
 
-I work with geospatial data to analyze, visualize, and extract insights from satellite imagery. My background in geoinformatics and data science helps me build practical solutions for mapping, monitoring, and decision-making. 
+I'm a Geospatial Engineer working at the intersection of geospatial data, software development, and machine learning.
 
-What I Do:
+I enjoy building solutions that make working with geospatial data more efficient and accessible. This includes developing automated processing workflows, working with satellite imagery, building data pipelines, and integrating machine learning into geospatial applications.
 
-🛰 Remote Sensing – Extracting insights from optical & radar imagery
+Most of my work is Python-based, using the geospatial ecosystem alongside tools such as Google Earth Engine, Scikit-learn, PyTorch, MLflow, and Optuna. I'm particularly interested in developing end-to-end solutions, from acquiring and processing spatial data to building applications that make it useful.
 
-📍 GIS & Spatial Analysis – Mapping, processing, and visualizing geospatial data
-
-🤖 Machine Learning – Detecting patterns & automating feature extraction
-
-🗺 Web Mapping – Creating interactive maps with Leaflet & OpenLayers
-
-🗄 Geospatial Databases – Managing spatial data with PostgreSQL/PostGIS
-
-📊 Network & Spatial Optimization – Solving routing and location-based challenges
-
-I’m especially interested in projects related to energy, climate, and disaster response. 
-
-Always curious, always learning! 🚀
+I'm especially interested in applying these technologies to challenges in agriculture, energy, and environmental monitoring.
 
 
 # 💻 Tech Stack:
