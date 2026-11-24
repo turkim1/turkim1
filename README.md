@@ -60,5 +60,5 @@ My focus areas are **agriculture, energy, and environmental monitoring**.
 
 I'm open to **collaboration and interesting geospatial and Earth observation problems**, especially in agriculture, energy, and environmental monitoring.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dhia-turki/)
 <!-- Optional: add your email or website here -->
